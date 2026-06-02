@@ -1,4 +1,4 @@
-# MGDiff
+# HGDiff
 
 Run train.py to train HGDiff
 
